@@ -32,3 +32,8 @@ To ensure that data is never lost and remains accessible even if the user switch
 ### Step 5: Delete Gift Plan (Delete)
 * The user taps the **Delete** button on an entry.
 * Once confirmed, the entry is permanently removed from the database.
+
+### Step 6: Data Persistence & Closing
+* **Repeat Process:** The user can continue managing their plans anytime.
+* **Close App:** When the app is closed, all data remains stored in the **Firebase**.
+* **Result:** All information will be available and up-to-date the next time the user logs in.
