@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Giftly",
+    "slug": "GiftPlanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4A2C8F"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bow-icon.png",
+        "backgroundColor": "#4A2C8F"
+      },
+      "package": "com.anonymous.GiftPlanner"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6cf432fd-9645-4b8b-89f8-60b1e3c44c5a"
+      }
+    }
+  }
+}
