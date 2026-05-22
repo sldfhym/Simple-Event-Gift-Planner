@@ -54,6 +54,8 @@ To ensure that data is never lost and remains accessible even if the user switch
 - Time-based greeting on dashboard
 - Custom alert modals
 - Date picker (no manual typing)
+- Simple and user-friendly interface
+- Secure cloud-based data storage
 
 ## How to Run
 
@@ -62,3 +64,4 @@ To ensure that data is never lost and remains accessible even if the user switch
 3. Add your Firebase config in `app/firebase/config.js`
 4. Run `npx expo start`
 5. Scan QR code with Expo Go app
+Project submitted.
