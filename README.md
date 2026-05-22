@@ -56,6 +56,10 @@ To ensure that data is never lost and remains accessible even if the user switch
 - Date picker (no manual typing)
 - Simple and user-friendly interface
 - Secure cloud-based data storage
+- ## Benefits of the Application
+
+- Helps users stay organized with their gift planning
+- Allows users to access their gift list anytime using Firebase cloud storage
 
 ## How to Run
 
